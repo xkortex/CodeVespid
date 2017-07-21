@@ -1,0 +1,2 @@
+# CodeVespid
+Assorted encoding schemes
